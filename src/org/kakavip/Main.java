@@ -1,3 +1,9 @@
+/**
+ * Author: KakaVip
+ * Email: haipq@ymeo.net
+ * 
+ */
+
 package org.kakavip;
 
 import java.awt.Color;
